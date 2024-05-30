@@ -1,16 +1,17 @@
-# insta_clone
+# 인스타그램 클론코딩
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## 프로젝트 설명
 
-This project is a starting point for a Flutter application.
+기간
+ - 2024.05.30 ~
 
-A few resources to get you started if this is your first Flutter project:
+개인 프로젝트 
+ - 사용기술: 플러터
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+인스타그램 클론코딩 선택이유 
+ - 일상생활에서 가장 많이 사용하는 앱이기도 하고 트렌디한 앱이라고 생각했기 때문입니다.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
